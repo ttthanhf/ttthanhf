@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Welcome to my github !</h1> <br><br>
+  <h1>Welcome to my github !</h1> <br>
   <a href=''><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'></a>
   <a href='https://www.facebook.com/3T520L/'><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'></a>
   <a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
