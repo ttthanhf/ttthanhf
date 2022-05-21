@@ -1,4 +1,5 @@
 <div align='center'>
+    <h1>Hello world !</h1>
     <h1>Welcome to my github !</h1>
     <div id="contact" align='center'>
         <h2>HI !</h2>
